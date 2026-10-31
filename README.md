@@ -21,13 +21,6 @@ I am an AI Engineer focused on bridging the gap between **Generative AI Research
 
 ## 💎 Featured Projects
 
-### ⚡ **[ScriptletAI (Flagship Internship Project)](https://github.com/tejoess)**
-> *Enterprise Desktop App for Automated Protocol Generation*
-**Tech:** Electron, Python, RAG, Llama-3 (Local), Docling, EasyOCR
-- **Role:** Lead Developer (Owned 90% of codebase).
-- **Impact:** Reduced manual documentation time by significant margins using **Multimodal RAG** (Drawings + Text).
-- **Key Feat:** Hybrid Retrieval, XML Low-Code Engine, Custom Image Enhancement Pipeline.
-
 ### 🔮 **[GridSight (SIH 2025)](https://github.com/tejoess/GridSight)**
 > *Infrastructure Risk Forecasting System for POWERGRID*
 **Tech:** XGBoost, MLflow, Streamlit, Python
